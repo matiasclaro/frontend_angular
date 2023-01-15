@@ -12,11 +12,14 @@ import { ExperienciaComponent } from './components/experiencia/experiencia.compo
 import { EducacionComponent } from './components/educacion/educacion.component';
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { NgCircleProgressModule } from 'ng-circle-progress';
 import { HysComponent } from './components/hys/hys.component';
 import { ProyectosComponent } from './components/proyectos/proyectos.component';
 import { FooterComponent } from './components/footer/footer.component';
 
+=======
+>>>>>>> parent of c96b93c (hard and soft skill)
 =======
 >>>>>>> parent of c96b93c (hard and soft skill)
 =======
@@ -33,6 +36,7 @@ import { FooterComponent } from './components/footer/footer.component';
     ExperienciaComponent,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     EducacionComponent,
     HysComponent,
     ProyectosComponent,
@@ -40,6 +44,8 @@ import { FooterComponent } from './components/footer/footer.component';
   
    ],
 =======
+=======
+>>>>>>> parent of c96b93c (hard and soft skill)
 =======
 >>>>>>> parent of c96b93c (hard and soft skill)
     EducacionComponent
