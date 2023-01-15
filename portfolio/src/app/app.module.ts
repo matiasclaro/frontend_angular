@@ -10,8 +10,14 @@ import { BannerComponent } from './components/banner/banner.component';
 import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
 import { ExperienciaComponent } from './components/experiencia/experiencia.component';
 import { EducacionComponent } from './components/educacion/educacion.component';
+<<<<<<< HEAD
 import { NgCircleProgressModule } from 'ng-circle-progress';
 import { HysComponent } from './components/hys/hys.component';
+import { ProyectosComponent } from './components/proyectos/proyectos.component';
+import { FooterComponent } from './components/footer/footer.component';
+
+=======
+>>>>>>> parent of c96b93c (hard and soft skill)
 
 @NgModule({
   declarations: [
@@ -22,13 +28,20 @@ import { HysComponent } from './components/hys/hys.component';
     BannerComponent,
     AcercaDeComponent,
     ExperienciaComponent,
+<<<<<<< HEAD
     EducacionComponent,
-    HysComponent
+    HysComponent,
+    ProyectosComponent,
+    FooterComponent,
+  
+   ],
+=======
+    EducacionComponent
   ],
+>>>>>>> parent of c96b93c (hard and soft skill)
   imports: [
     BrowserModule,
-    AppRoutingModule,
-    NgCircleProgressModule.forRoot({})
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
